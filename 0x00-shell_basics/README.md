@@ -1,1 +1,1 @@
-7. Betty in my first directory
+ changes the working directory to the previous one.
