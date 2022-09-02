@@ -1,1 +1,1 @@
-directory contents in a long format
+long format
