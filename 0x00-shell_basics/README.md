@@ -1,1 +1,1 @@
-long format
+list directory
