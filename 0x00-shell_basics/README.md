@@ -1,1 +1,1 @@
-display hidden files
+directory contents
