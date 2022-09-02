@@ -1,1 +1,1 @@
-list directory in a long fmt
+display hidden files
